@@ -1,1 +1,3 @@
 welcome to my new Hey file
+
+after git command part3 added
